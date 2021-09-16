@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Diva\\": "inc/"
+        }
+    },
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}

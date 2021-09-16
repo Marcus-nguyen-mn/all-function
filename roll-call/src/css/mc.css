@@ -1,0 +1,23 @@
+.fc-daygrid-day{
+    cursor:pointer;
+    position: relative;
+}
+.fc-dd{
+    font-family: ViettelPay;
+    font-size: 13.6px;
+    background: #3788d8;
+    color: #fff;
+    padding: 2px 3px;
+    border-radius: 3px;
+}
+.fc-daygrid-day p:nth-child(2){
+    position: absolute;
+    top: 31px;
+    margin: 0;
+    background: #3788d8;
+    font-size: 13.6px;
+    width: 100%;
+    padding: 2px 0px 2px 3px;
+    color: #fff;
+    border-radius: 3px;
+}
